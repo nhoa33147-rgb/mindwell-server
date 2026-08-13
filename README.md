@@ -1,7 +1,7 @@
 # 🧠 MindWell Backend: AI-Powered Mental Health API & WebSocket
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pham-anh-tuann/mindwell-app/main/assets/images/icon.png" alt="MindWell Banner" width="20%" />
+  <img src="https://raw.githubusercontent.com/nhoa33147-rgb/mindwell-app/main/assets/images/icon.png" alt="MindWell Banner" width="20%" />
 </div>
 
 >  Phân hệ Backend cốt lõi xử lý luồng dữ liệu thời gian thực, kiểm duyệt cộng đồng tự động và giao tiếp với Trí tuệ Nhân tạo.
